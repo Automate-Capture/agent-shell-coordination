@@ -5,7 +5,7 @@ Thank you for your interest in contributing to AgentShell!
 ## Development Setup
 
 ```bash
-git clone https://github.com/Lumi-node/agent-shell-coordination.git
+git clone https://github.com/Automate-Capture/agent-shell-coordination.git
 cd agent-shell-coordination
 pip install -e ".[dev]"
 ```

@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Lumi-node/agent-shell-coordination"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT"></a>
-  <a href="https://github.com/Lumi-node/agent-shell-coordination"><img src="https://img.shields.io/badge/Python-3.10%2B-blue.svg" alt="Python 3.10+"></a>
-  <a href="https://github.com/Lumi-node/agent-shell-coordination"><img src="https://img.shields.io/badge/Tests-22%20Files-green.svg" alt="22 Test Files"></a>
+  <a href="https://github.com/Automate-Capture/agent-shell-coordination"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT"></a>
+  <a href="https://github.com/Automate-Capture/agent-shell-coordination"><img src="https://img.shields.io/badge/Python-3.10%2B-blue.svg" alt="Python 3.10+"></a>
+  <a href="https://github.com/Automate-Capture/agent-shell-coordination"><img src="https://img.shields.io/badge/Tests-22%20Files-green.svg" alt="22 Test Files"></a>
 </p>
 
 ---

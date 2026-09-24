@@ -1,10 +1,10 @@
 site_name: AgentShell
-site_url: https://lumi-node.github.io/agent-shell-coordination/
+site_url: https://automate-capture.github.io/agent-shell-coordination/
 site_description: "Distributed multi-agent system for collaborative shell command execution."
 site_author: Andrew Young
-repo_url: https://github.com/Lumi-node/agent-shell-coordination
-repo_name: Lumi-node/agent-shell-coordination
-edit_uri: edit/main/docs/
+repo_url: https://github.com/Automate-Capture/agent-shell-coordination
+repo_name: Automate-Capture/agent-shell-coordination
+edit_uri: edit/master/docs/
 
 theme:
   name: material
@@ -62,7 +62,7 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/Lumi-node/agent-shell-coordination
+      link: https://github.com/Automate-Capture/agent-shell-coordination
   generator: false
 
 extra_css:
